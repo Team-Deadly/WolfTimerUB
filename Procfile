@@ -1,1 +1,1 @@
-worker: autopic.py
+worker: python autopic.py
